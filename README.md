@@ -9,14 +9,16 @@ Sou apaixonado por aprender, abaixo você pode ver as tecnologias que utilizo no
 
 <div style="display: inline_block">
    
-  <img align="center" src="https://img.shields.io/badge/OpenJdk-Java-FF9E0F?style=for-the-badge&logo=openjdk&logoColor=#FFFFFF">
-  <img align="center" src="https://img.shields.io/badge/Junit5-Test-25A162?style=for-the-badge&logo=junit5&logoColor=#25A162">
-  <img align="center" src="https://img.shields.io/badge/MySQL-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=#FFFFFF">
-  <img align="center" src="https://img.shields.io/badge/MS_SQL-Data Base-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=#CC2927">
-  <img align="center" src="https://img.shields.io/badge/Oracle-SQL-F80000?style=for-the-badge&logo=oracle&logoColor=#F80000">
+  <img align="center" src="https://img.shields.io/badge/OpenJdk-Java-FF9E0F?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Junit5-Test-25A162?style=for-the-badge&logo=junit5&logoColor=25A162">
+  <img align="center" src="https://img.shields.io/badge/K8-kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=326CE5">
+  <img align="center" src="https://img.shields.io/badge/CI/CD-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/MySQL-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/MS_SQL-Data Base-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927">
+  <img align="center" src="https://img.shields.io/badge/Oracle-SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Apache_Kafka-Menssageria-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Spring_boot-Java Framework-239120?&style=for-the-badge&logo=springboot&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Golang-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=#FFFFFF">
+  <img align="center" src="https://img.shields.io/badge/Golang-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Amazon_AWS-Clould-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 <br />
