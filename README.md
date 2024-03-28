@@ -10,6 +10,7 @@ Sou apaixonado por aprender, abaixo você pode ver as tecnologias que utilizo no
 <div style="display: inline_block">
    
   <img align="center" src="https://img.shields.io/badge/OpenJdk-Java-FF9E0F?style=for-the-badge&logo=openjdk&logoColor=#FFFFFF">
+  <img align="center" src="https://img.shields.io/badge/Junit5-Test-25A162?style=for-the-badge&logo=junit5&logoColor=#25A162">
   <img align="center" src="https://img.shields.io/badge/MySQL-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=#FFFFFF">
   <img align="center" src="https://img.shields.io/badge/MS_SQL-Data Base-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=#CC2927">
   <img align="center" src="https://img.shields.io/badge/Oracle-SQL-F80000?style=for-the-badge&logo=oracle&logoColor=#F80000">
@@ -21,7 +22,7 @@ Sou apaixonado por aprender, abaixo você pode ver as tecnologias que utilizo no
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigues-daniel)](https://github.com/rodrigues-daniel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigues-daniel&hide_progress=true)](https://github.com/rodrigues-daniel/github-readme-stats)
 
 ### Contato
 
