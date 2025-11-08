@@ -1,59 +1,87 @@
-### Hello visitor! Nice to meet you, I’m Daniel Rodrigues — a passionate DevOps Engineer focused on automation, scalable infrastructure, and backend development with Go! 🚀
+<h1 align="center">👋 Hello, I'm Daniel Rodrigues</h1>
+<h3 align="center">🚀 DevOps Engineer | Backend Developer | Cloud & Blockchain Enthusiast</h3>
 
-Here you can explore my portfolio of repositories and get to know the technologies I work with daily.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigues-daniel&show_icons=true&bg_color=00000000)
-
----
-
-### About Me
-
-- 👨‍💻 Experienced in **DevOps**, automation, Infrastructure as Code (IaC), Continuous Integration & Delivery (CI/CD)
-- ⚙️ Skilled with tools like **Docker**, **Kubernetes**, **Terraform**, **Jenkins**, **AWS**, **KVM**, and **Libvirt**
-- 💻 Backend developer with focus on **Golang**, **Java** (Spring Boot) and **Python**
-- 🐧 Strong Linux user and administrator, with experience in **NGINX** web server configuration and management
-- 🔍 Experienced in monitoring and observability using **Prometheus**, **Grafana**, and **ELK Stack**
-- 🌐 Enthusiast of DevOps culture, Site Reliability Engineering (SRE), and cloud computing to build resilient and scalable solutions
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-FF9E0F?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
 
 ---
 
-### Technologies I Use Daily
+### 👨‍💻 About Me
 
-<div style="display: inline_block">
+I’m **Daniel Rodrigues**, a **DevOps Engineer** and **Backend Developer** passionate about **automation**, **scalable infrastructure**, and **systems programming with Rust and Go**.  
+With over a decade of experience in backend systems and distributed architectures, I design **resilient**, **cloud-native**, and **high-performance** solutions.
 
-  <img align="center" alt="Golang" src="https://img.shields.io/badge/Golang-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/OpenJDK-Java-FF9E0F?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-Java_Framework-239120?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img align="center" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img align="center" alt="Terraform" src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img align="center" alt="Jenkins" src="https://img.shields.io/badge/Jenkins-CI/CD-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="Prometheus" src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img align="center" alt="Grafana" src="https://img.shields.io/badge/Grafana-Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img align="center" alt="ELK" src="https://img.shields.io/badge/ELK_Stack-Logging-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-  <img align="center" alt="Apache Kafka" src="https://img.shields.io/badge/Apache_Kafka-Messaging-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img align="center" alt="KVM" src="https://img.shields.io/badge/KVM-Virtualization-0078D7?style=for-the-badge&logo=linux&logoColor=white" />
-  <img align="center" alt="Libvirt" src="https://img.shields.io/badge/Libvirt-Virtualization-4F4F4F?style=for-the-badge" />
-  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-Operating_System-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img align="center" alt="NGINX" src="https://img.shields.io/badge/NGINX-Web_Server-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+- 🧰 Experienced in **DevOps**, **IaC**, **SRE**, and **automation pipelines**
+- 🦀 Enthusiast of **Rust** for systems, compilers, and blockchain development
+- ☁️ Skilled with **AWS**, **Terraform**, **Docker**, **Kubernetes**, and **Jenkins**
+- 💻 Backend experience with **Go**, **Rust**, **Java (Spring Boot)**, and **Python**
+- 📊 Deep interest in **observability**, **monitoring**, and **resilient systems**
+- 🐧 Linux user and sysadmin, experienced with **NGINX**, **KVM**, and **Libvirt**
+- 🌍 Open to **remote opportunities** and global collaboration in **Web3 / Blockchain** projects
+
+---
+
+### 🧠 Tech Stack & Tools
+
+<div align="center">
+
+| Category | Technologies |
+|-----------|---------------|
+| 💻 **Languages** | Rust 🦀, Go, Java (Spring Boot), Python |
+| 🐳 **Containers & Orchestration** | Docker, Kubernetes |
+| ☁️ **Cloud & IaC** | AWS, Terraform |
+| 🔄 **CI/CD & Automation** | Jenkins, GitHub Actions |
+| 📈 **Monitoring & Observability** | Prometheus, Grafana, ELK Stack |
+| 🧩 **Messaging & Streaming** | Apache Kafka, NATS |
+| 💾 **Databases** | MySQL, PostgreSQL |
+| 🧰 **System & Virtualization** | Linux, KVM, Libvirt |
+| 🌐 **Web Servers** | NGINX |
 
 </div>
 
 ---
 
-### Top Languages
+### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigues-daniel&hide_progress=true)]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigues-daniel&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigues-daniel&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 🧩 Featured Repositories
+
+🔹 [**Rust Blockchain Experiments**](https://github.com/rodrigues-daniel/rust-blockchain-lab) — Exploring consensus, cryptography, and smart contracts in Rust.  
+🔹 [**Schema Registry with Embedded NATS**](https://github.com/rodrigues-daniel/schema-registry-nats) — Experimental Go application for schema versioning and compatibility validation.  
+🔹 [**CI/CD Pipeline Templates**](https://github.com/rodrigues-daniel/devops-pipelines) — Preconfigured pipelines for Jenkins, GitHub Actions, and Docker builds.  
+🔹 [**Go Microservices Toolkit**](https://github.com/rodrigues-daniel/go-microservices) — Reusable components for building distributed Go services with observability.
 
 ---
 
-### Contact
+### 🌍 Connect with Me
 
-Let’s connect! I’m open to new opportunities and knowledge sharing.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-c-rodrigues/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-c-rodrigues/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:danielcrodrigues.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-danielcrodrigues.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rodrigues-daniel">
+    <img src="https://img.shields.io/badge/GitHub-rodrigues--daniel-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
+
+<p align="center">
+  💡 *“Automation builds efficiency — Rust builds reliability. Together, they power the future.”*
+</p>
